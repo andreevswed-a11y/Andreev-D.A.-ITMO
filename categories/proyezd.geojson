@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "proyezd",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "w296746171", "osm_id": "296746171", "osm_type": "way", "highway": "tertiary_link", "name": null, "trolley_wire": null, "surface": "asphalt", "smoothness": "excellent", "oneway": "yes", "maxspeed": "RU:urban", "lit": "yes", "lanes": "1", "foot": "no" }, "geometry": { "type": "LineString", "coordinates": [ [ 30.3686768, 59.8548942 ], [ 30.3686248, 59.8549051 ], [ 30.368582, 59.8549063 ], [ 30.3685375, 59.8548996 ], [ 30.3685003, 59.8548844 ], [ 30.3684818, 59.8548541 ] ] } },
+{ "type": "Feature", "properties": { "full_id": "w1424960197", "osm_id": "1424960197", "osm_type": "way", "highway": "tertiary_link", "name": "проспект Славы", "trolley_wire": null, "surface": "asphalt", "smoothness": null, "oneway": "yes", "maxspeed": "RU:urban", "lit": null, "lanes": "1", "foot": null }, "geometry": { "type": "LineString", "coordinates": [ [ 30.3696608, 59.8547511 ], [ 30.3691936, 59.8547659 ], [ 30.3690313, 59.8547463 ], [ 30.3689932, 59.8547434 ], [ 30.3689622, 59.854741 ], [ 30.3688791, 59.854745 ], [ 30.3687792, 59.8547582 ] ] } }
+]
+}
